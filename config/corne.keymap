@@ -172,7 +172,7 @@ MACRO(pass,  &macro_press &kp LSHFT &macro_tap &kp M &macro_release &kp LSHFT &m
       &kp LCTRL     &kp Z       &kp X      &kp C      &kp V      &kp B               &lt 3 N     &kp M    &kp COMMA   &kp DOT    &kp FSLH      &kp RET
 // _______24_____|____25____|____26____|____27____|____28____|_____29____|         |_____30___|____31____|____32____|____33____|_____34____|______35______||                   
 //                             |  CAPS/SHFT   |    ALT    |    ENTER    |           |   ENT/ALT   |   LAYER2   |   LAYER1    |
-                               &mt LSHIFT CAPS   &kp LALT    &kp RET                 &mt RALT SPACE     &mo 2   &pht mt 1 tog NUMB
+                               &mt LSHIFT CAPS   &kp LALT    &kp RET                 &mt RALT SPACE     &mo 2   &pht mo 1 tog NUMB
 //                             |______36______|_____37____|______38_____|           |______39_____|_____40_____|______41_____|                    
                         >;
                 };
